@@ -1,0 +1,5 @@
+print("//  Adarsh Gour  // ")
+l = int(input("Enter a value of length : "))
+b = int(input("Enter a value of breadth : "))
+print("Area of rectangle :  ",l*b)
+print("//  Adarsh Gour  // ")
