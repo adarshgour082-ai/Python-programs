@@ -1,0 +1,5 @@
+print("//  Adarsh Gour  // ")
+base = float(input("value of base : "))
+height = float(input("value of height : "))
+print("Area of triangle :  ",0.5 * base * height)
+print("//  Adarsh Gour  // ")
