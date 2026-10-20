@@ -1,0 +1,6 @@
+print("//  Adarsh Gour  //")
+a = int(input("Enter a: "))
+b = int(input("Enter b: "))
+c = int(input("Enter c: "))
+print("Largest = ",max(a,b,c))
+print("//  Adarsh Gour  //")
